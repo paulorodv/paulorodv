@@ -16,7 +16,7 @@
 </p>
 
 |           | <sup>Skills</sup>             |
-|--------------------|----------|
+|:-:|:-:|
 |**Programming Languages**|<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/PLSQL-000000?style=for-the-badge&logo=oracle&logoColor=black"/>|
 |**Libraries**|<img src="https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=TensorFlow&logoColor=white"/>|
 |**Database**|<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-000000?style=for-the-badge&logo=neo4j&logoColor=white"/>
