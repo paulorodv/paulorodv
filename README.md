@@ -3,9 +3,7 @@
 <a href="https://www.linkedin.com/in/paulorodv/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white">
-</div>
+
 <br>
 <p align="center">
 <sub>MY WORKSTATION FOR STUDIES</sub>
@@ -15,4 +13,14 @@
 <img src="https://img.shields.io/badge/RAM%2016GB-E2231A?style=for-the-badge&&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white">
+</p>
+
+
+
+<br><br><br>
+<p align="right">
+<sup>KosukeIsobe </sup>
+<a href="https://steamcommunity.com/id/kosukeisobe/">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+</a>
 </p>
